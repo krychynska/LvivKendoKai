@@ -14,11 +14,11 @@ header {
     transition: top 0.2s ease-in-out;
     width: 100%;
 	z-index: 1;
-	height: 185px;
+	height: 165px;
 }
 
 .nav-up {
-    top: -165px;
+    top: -120px;
 }
 
 h2{
@@ -39,9 +39,9 @@ h1{
 
 #logo1{
 	position: relative;
-	top: 10px;
 	width: 135px;
-	padding: 5px;
+	padding: 10px;
+	top: 5px;
 
 }
 
@@ -58,7 +58,7 @@ h1{
 /*menu*/
 
 .navigation{
-	background:#c62026;	
+	background:#c62026;
 }
 
 .navbar-nav{
