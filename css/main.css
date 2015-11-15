@@ -41,7 +41,7 @@ h1{
 	position: relative;
 	width: 135px;
 	padding: 10px;
-	top: 5px;
+	top: 10px;
 
 }
 
@@ -62,7 +62,7 @@ h1{
 }
 
 .navbar-nav{
-	margin-left: 30px;
+	margin-left: 15px;
 }
 
 .nav>li{
@@ -88,12 +88,12 @@ li:first-child{
 
 #lang{
 	float: right;
+	margin-right: 15px;
 }
 
 /*social*/
 nav{
 	float: right;
-	margin-right: 30px;
 }
 
 nav>a{
